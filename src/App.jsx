@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-// import { use } from 'react'
 import Option from './components/Option'
 import { useWindowSize } from "@uidotdev/usehooks";
 import Confetti from 'react-confetti'
